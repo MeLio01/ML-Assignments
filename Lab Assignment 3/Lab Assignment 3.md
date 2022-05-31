@@ -40,16 +40,16 @@ IV Regularization
 1. Generate points with the model y = ax+b+ where epsilon is standard gaussian.
 x is distributed as uniform rv between [0,10]. Train a linear regression model
 with following polynomials
-• 2
-• 5
-• 10
+• 2  
+• 5  
+• 10  
 Study the out of sample performance for each of the above. Compare this when
 training dataset size is changed.
 2. On the above, fix a suitable training dataset size, train a 10 degree polynomial
 which exhibits overfitting. Implement the following regularization schemes
-• Lasso
-• Ridge
-• Elastic
+• Lasso  
+• Ridge  
+• Elastic  
 Observe how the coeffients change via a plot for different values of regularization
 constant. Using a validation approach fix a regularization constant. Implement
 a six-fold cross validation method for fixing regularization constant.
