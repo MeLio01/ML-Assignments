@@ -1,0 +1,3 @@
+1) Create a synthetic dataset  for the credit default problem. You may choose priors suitably. Generate 10^4 points from you model. Using the generated dataset evaluate a) bayes classifier and b) classifier which has a randomization built in. 
+2) On the Handwritten dataset attached, evaluate the bayes classifier with naive bayes assumption. You may rescale the pixel values to 0,1. As described in class, split the dataset randomly to 80:20 to training and test dataset. 
+3) Extra credit (optional): Repeat 2 by implementing your own naive bayes classifier.
