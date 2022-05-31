@@ -46,7 +46,5 @@ python wrappers. Note any performance improvements.
 
   
 II CalTech experiments
-1. Replicate the experiment described here. https://youtu.be/EQWr3GGCdzw?t=
-889
-2. Replicate the experiment described here. https://youtu.be/EQWr3GGCdzw?t=
-1744
+1. Replicate the experiment described here. https://youtu.be/EQWr3GGCdzw?t=889  
+2. Replicate the experiment described here. https://youtu.be/EQWr3GGCdzw?t=1744  
